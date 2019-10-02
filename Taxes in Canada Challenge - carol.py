@@ -19,5 +19,6 @@ if country != "Canada":
     TotalCost = float(totalPurchase)
 
 print("The sames taxes of the items is {0:.2f}".format(SalesTaxes))
+#Typo sames?
 print("The total cost of the items is {0:.2f}".format(TotalCost))
     
